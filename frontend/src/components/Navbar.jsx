@@ -22,7 +22,7 @@ const Navbar = () => {
               <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                 Support App
               </a>
-              <ul className="dropdown-menu">
+              <ul className="dropdown-menu dropdown-menu-dark bg-secondary">
                 <li>
                   <a className="dropdown-item" href="#">
                     Instagram
